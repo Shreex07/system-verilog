@@ -10,7 +10,6 @@ Each gate subfolder may include:
 - Design code (`.sv`)
 - Testbench (`_tb.sv`)
 - Simulation waveform (`.png`)
-- RTL schematic / block diagram (`.png`)
 - README about the gate
 
 ---
